@@ -1,5 +1,10 @@
 # carouselModal
 
+## Display multiple fully functioning webpages inide a popup modal
+### Mainly intended for demonstration purposes.
+### Great for dev portfolios that display a gallery of hosted projects!
+### The recruiter doesn’t need to leave your portfolio page to view your works!
+
 the overall endgame, https://heymundo.github.io/carouselModal/
 
 improvements always welcomed
