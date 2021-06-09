@@ -11,7 +11,9 @@ improvements always welcomed
 
 to modify for your own use go to https://github.com/heymundo/carouselDemo/blob/pages/index.html 
 
-fork it, clone it
+
+## INSTRUCTIONS
+fork it, clone it (both repositories) [Demo](https://github.com/heymundo/carouselDemo/blob/pages/index.html) [Modal](https://github.com/heymundo/carouselModal)
 
 replace URL's in src attributes of the iframe elements with your own hosted website URL's
 
